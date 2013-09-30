@@ -3,6 +3,8 @@ box-editor
 
 This is a custom component designed with jqueryUI and Kinetic.js. See a working demo here: http://eucuepo.github.io/box/box.html
 
+See me explaining it here: http://www.youtube.com/watch?v=RWviGE16zcQ
+
 Technical details
 =================
 
